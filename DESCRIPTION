@@ -1,0 +1,25 @@
+Package: ncargarch
+Type: Package
+Title: Noncausal AR Models with Causal GARCH Volatility
+Version: 0.0.1
+Authors@R: c(
+    person("Daniel", "Velasquez-Gaviria", email = "d.velasquezgaviria@maastrichtuniversity.nl", role = c("aut", "cre"))
+  )
+Description: Simulation, three-step estimation, diagnostic testing, detrending,
+    and data preparation tools for noncausal autoregressive models driven by
+    causal GARCH(1,1) volatility.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    stats,
+    utils
+Suggests:
+    rugarch,
+    quantmod,
+    xts,
+    zoo,
+    urca,
+    testthat
+Config/testthat/edition: 3
