@@ -11,6 +11,16 @@ X_t = phi_1 X_{t+1} + ... + phi_p X_{t+p} + epsilon_t
 epsilon_t = sigma_t eta_t
 sigma_t^2 = omega + alpha epsilon_{t-1}^2 + beta sigma_{t-1}^2
 ```
+## Related working paper
+
+This repository provides R code associated with the working paper:
+
+> Velásquez-Gaviria, D. and Zakoïan, J.-M. (2026).  
+> **Noncausal AR processes driven by causal GARCH volatility**.  
+> CREST Working Papers Series No. 2026-02, Center for Research in Economics and Statistics.  
+> RePEc handle: `RePEc:crs:wpaper:2026-02`.
+
+Working paper link: https://crest.science/wp-content/uploads/2026/02/2026-02.pdf
 
 
 ## Main functions
