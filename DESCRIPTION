@@ -3,7 +3,23 @@ Type: Package
 Title: Noncausal AR Models with Causal GARCH Volatility
 Version: 0.0.1
 Authors@R: c(
-    person("Daniel", "Velasquez-Gaviria", email = "d.velasquezgaviria@maastrichtuniversity.nl", role = c("aut", "cre"))
+    person(
+      given = "Daniel",
+      family = "Velasquez-Gaviria",
+      email = "d.velasquezgaviria@maastrichtuniversity.nl",
+      role = c("aut", "cre"),
+      comment = c(affiliation = "Maastricht University")
+    ),
+    person(
+      given = "Jean-Michel",
+      family = "Zakoïan",
+      email = "Jean-Michel.Zakoian@ensae.fr",
+      role = "aut",
+      comment = c(
+        affiliation = "CREST-ENSAE",
+        url = "https://www.ensae.fr/en/faculty/147-jean-michel-zakoian"
+      )
+    )
   )
 Description: Simulation, three-step estimation, diagnostic testing, detrending,
     and data preparation tools for noncausal autoregressive models driven by
