@@ -12,7 +12,6 @@ epsilon_t = sigma_t eta_t
 sigma_t^2 = omega + alpha epsilon_{t-1}^2 + beta sigma_{t-1}^2
 ```
 
-This repository is currently organized as a GitHub-first R package skeleton. It can later be converted into a formal R package with minimal restructuring.
 
 ## Main functions
 
