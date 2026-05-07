@@ -23,8 +23,14 @@ Authors@R: c(
   )
 Description: Simulation, three-step estimation, diagnostic testing, detrending,
     and data preparation tools for noncausal autoregressive models driven by
-    causal GARCH(1,1) volatility.
+    causal GARCH(1,1) volatility. The methods are associated with the CREST
+    working paper "Noncausal AR processes driven by causal GARCH volatility"
+    by Velasquez-Gaviria and Zakoïan (2026).
 License: MIT + file LICENSE
+URL: https://github.com/dvelas18/ncargarch,
+    https://crest.science/wp-content/uploads/2026/02/2026-02.pdf,
+    https://ideas.repec.org/p/crs/wpaper/2026-02.html
+BugReports: https://github.com/dvelas18/ncargarch/issues
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
