@@ -40,7 +40,7 @@ Working paper link: https://crest.science/wp-content/uploads/2026/02/2026-02.pdf
 
 ## Installation from GitHub
 
-Once pushed to GitHub:
+GitHub:
 
 ```r
 # install.packages("remotes")
