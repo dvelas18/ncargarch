@@ -13,14 +13,14 @@ sigma_t^2 = omega + alpha epsilon_{t-1}^2 + beta sigma_{t-1}^2
 ```
 ## Related working paper
 
-This repository provides R code associated with the working paper:
+This repository provides R code associated with the paper:
 
 > Velásquez-Gaviria, D. and Zakoïan, J.-M. (2026).  
 > **Noncausal AR processes driven by causal GARCH volatility**.  
-> CREST Working Papers Series No. 2026-02, Center for Research in Economics and Statistics.  
-> RePEc handle: `RePEc:crs:wpaper:2026-02`.
+> *Journal of Econometrics*, 257, Article 106297.  
+> DOI: `10.1016/j.jeconom.2026.106297`.
 
-Working paper link: https://crest.science/wp-content/uploads/2026/02/2026-02.pdf
+Article link: https://doi.org/10.1016/j.jeconom.2026.106297
 
 
 ## Main functions
