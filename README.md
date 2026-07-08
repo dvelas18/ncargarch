@@ -11,7 +11,7 @@ X_t = phi_1 X_{t+1} + ... + phi_p X_{t+p} + epsilon_t
 epsilon_t = sigma_t eta_t
 sigma_t^2 = omega + alpha epsilon_{t-1}^2 + beta sigma_{t-1}^2
 ```
-## Related working paper
+## Related paper
 
 This repository provides R code associated with the paper:
 
